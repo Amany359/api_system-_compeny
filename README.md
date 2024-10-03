@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 his is the local version of the README.
 This is the remote version of the README.
+<<<<<<< HEAD
+
 # management-system-master
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
@@ -70,3 +72,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 >>>>>>> ca46d2f (Initial commit)
+=======
+# api_system-_compeny
+>>>>>>> 81077c45aebbeeab92709fa07c336d9e1c6653f8
